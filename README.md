@@ -24,14 +24,14 @@
 
 ## Инструменты для поиска информации по данным (номер телефона, емайлы, айди, автомобильные номера и другое) 🆔
 Коллекция ресурсов для работы с различными идентификаторами и поиска связанных с ними сведений:
-* ➡️[OSINT и поиск информации по **Телефону**](https://github.com/osint-and-search/OSINT_i_probiv_po_telefonu) - инструменты и сервисы, ориентированные на анализ телефонных номеров.
+* ➡️[OSINT и поиск информации по **Телефону**](https://github.com/osint-and-search/OSINT_i_probiv_po_telefonu) - инструменты и сервисы, ориентированные на анализ телефонов.
 * ➡️[OSINT и поиск информации по **Емайл**](https://github.com/osint-and-search/OSINT_i_probiv_po_email) - решения для исследования и пробива электронных адресов.
 * ➡️[OSINT и поиск информации по **ФИО**](https://github.com/osint-and-search/OSINT_i_probiv_po_FIO) - практические методы и сервисы анализа по личным данным.
 * ➡️[OSINT и поиск информации по **Карте банка**](https://github.com/osint-and-search/OSINT_i_probiv_po_nomeru_karti) - варианты работы с банковскими реквизитами.
-* ➡️[OSINT и поиск информации по **Автомобилю**](https://github.com/osint-and-search/OSINT_i_probiv_po_avto_i_nomeru) - средства для анализа транспортных средств по номерам и VIN.
+* ➡️[OSINT и поиск информации по **Автомобилю**](https://github.com/osint-and-search/OSINT_i_probiv_po_avto_i_nomeru) - средства для анализа транспорта по номерам и VIN.
 * ➡️[OSINT и поиск информации по **Правам**](https://github.com/osint-and-search/OSINT_i_probiv_prav) - подходы к проверке водительских удостоверений.
 * ➡️[OSINT и поиск информации по **Паспорту**](https://github.com/osint-and-search/OSINT_i_probiv_po_pasportu) - ресурсы для работы с паспортными сведениями.
-* ➡️[OSINT и поиск информации по **Кадастровому номеру**](https://github.com/osint-and-search/OSINT_i_probiv_po_kadastrovomu_nomeru) - инструменты кадастрового поиска и связанных данных.
+* ➡️[OSINT и поиск информации по **Кадастровому номеру**](https://github.com/osint-and-search/OSINT_i_probiv_po_kadastrovomu_nomeru) - инструменты кадастрового поиска и данных.
 * ➡️[OSINT и поиск информации по **Адресу**](https://github.com/osint-and-search/OSINT_i_probiv_po_adresu) - платформы и боты для исследования адресов.
 * ➡️[OSINT и поиск информации по **ИНН**](https://github.com/osint-and-search/OSINT_i_probiv_po_INN) - гайды и сервисы по поиску данных через ИНН.
 * ➡️[OSINT и поиск информации по **ИП**](https://github.com/osint-and-search/OSINT_i_probiv_individualnih_predprenimatelei) - материалы по проверке индивидуальных предпринимателей.
