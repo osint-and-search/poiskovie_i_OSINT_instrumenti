@@ -16,10 +16,10 @@
 
 ## ТОП наборы по пробиву, поиску и OSINT
 Наиболее востребованные тематические подборки по OSINT и поиску данных, получившие широкую популярность:
-* ➡️[Лучшие боты для OSINT и пробива 2026](https://github.com/osint-and-search/luchie_boti_OSINT_i_probiva_etogo_goda)
+* ➡️[Лучшие боты для OSINT и пробива 2026](https://github.com/osint-and-search/luchie_boti_OSINT_i_poiska_etogo_goda)
 * ➡️[Методы поиска человека в интернете](https://github.com/osint-and-search/poisk_cheloveka_v_internete)
 * ➡️[Методы поиска в мессенджерах и соцсетях](https://github.com/osint-and-search/poisk_po_socsetam_i_messengeram)
-* ➡️[Ключевые боты для пробива информации](https://github.com/osint-and-search/boti_dlya_probiva)
+* ➡️[Ключевые боты для пробива информации](https://github.com/osint-and-search/boti_dlya_poiska)
 * ➡️[Проверки и выявление информации](https://github.com/osint-and-search/boti_dlia_proverki_informacii)
 
 ## Инструменты для поиска информации по данным (номер телефона, емайлы, айди, автомобильные номера и другое) 🆔
