@@ -34,7 +34,7 @@
 * ➡️[OSINT и поиск информации по **Кадастровому номеру**](https://github.com/osint-and-search/OSINT_i_poisk_po_kadastrovomu_nomeru) - инструменты кадастрового поиска и данных.
 * ➡️[OSINT и поиск информации по **Адресу**](https://github.com/osint-and-search/OSINT_i_poisk_po_adresu) - платформы и боты для исследования адресов.
 * ➡️[OSINT и поиск информации по **ИНН**](https://github.com/osint-and-search/OSINT_i_poisk_po_INN) - гайды и сервисы по поиску данных через ИНН.
-* ➡️[OSINT и поиск информации по **ИП**](https://github.com/osint-and-search/OSINT_i_poisk_po_individualnim_predprenimatelam) - материалы по проверке индивидуальных предпринимателей.
+* ➡️[OSINT и поиск информации по **ИП**](https://github.com/osint-and-search/OSINT_i_poisk_individualnih_predprenimatelei) - материалы по проверке индивидуальных предпринимателей.
 * ➡️[OSINT и поиск информации по **Нику (никнейму)**](https://github.com/osint-and-search/OSINT_i_poisk_po_niku) - каталог решений для поиска по никнеймам.
 * ➡️[OSINT и поиск информации по **IP**](https://github.com/osint-and-search/OSINT_i_poisk_po_IP) - ресурсы и инструкции по анализу IP-адресов.
 
@@ -53,7 +53,7 @@
 
 ## Инструменты для поиска информации в мессенджерах 📱
 Материалы по проведению OSINT в популярных мессенджерах и системах обмена сообщениями:
-* ➡️[OSINT и поиск информации в **Телеграм**](https://github.com/osint-and-search/OSINT_i_poisk_v_Telegram) - перечень инструментов и инструкций для Telegram.
+* ➡️[OSINT и поиск информации в **Телеграм**](https://github.com/osint-and-search/OSINT_i_poisk_Telegram) - перечень инструментов и инструкций для Telegram.
 * ➡️[OSINT и поиск информации в **WhatsApp**](https://github.com/osint-and-search/OSINT_i_poisk_v_WhatsApp) - сервисы и советы по анализу WhatsApp.
 * ➡️[OSINT и поиск информации в **Discord**](https://github.com/osint-and-search/OSINT_i_poisk_v_Discord) - решения для работы с Discord.
 * ➡️[OSINT и поиск информации в **ICQ**](https://github.com/osint-and-search/OSINT_i_poisk_ICQ) - гайды по поиску данных в ICQ.
@@ -66,7 +66,7 @@
 * ➡️[OSINT и поиск информации по **Архивам**](https://github.com/osint-and-search/OSINT_i_poisk_po_arhivam) - инструменты работы с архивными материалами.
 * ➡️[OSINT и поиск информации по **Сайтам**](https://github.com/osint-and-search/OSINT_i_poisk_po_saitam) - решения для анализа веб-ресурсов.
 * ➡️[OSINT и поиск информации по **Продавцам**](https://github.com/osint-and-search/OSINT_i_poisk_po_Prodavcam) - методы проверки продавцов на маркетплейсах.
-* ➡️[OSINT и поиск информации по **Недвижимости**](https://github.com/osint-and-search/OSINT_i_poisk_nedvigimosti) - инструменты проверки объектов недвижимости.
+* ➡️[OSINT и поиск информации по **Недвижимости**](https://github.com/osint-and-search/OSINT_i_poisk_po_nedvigimosti) - инструменты проверки объектов недвижимости.
 * ➡️[OSINT и поиск информации с **Законными инструментами**](https://github.com/osint-and-search/zakonniy_poisk_informacii) - легальные способы сбора сведений.
 
 В подборках сосредоточены наиболее эффективные решения для OSINT, пробива и поиска. Они помогают собирать значительные объёмы сведений по выбранным направлениям и проводить исследования нужных объектов.
