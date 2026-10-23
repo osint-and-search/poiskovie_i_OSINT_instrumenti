@@ -24,50 +24,50 @@
 
 ## Инструменты для поиска информации по данным (номер телефона, емайлы, айди, автомобильные номера и другое) 🆔
 Коллекция ресурсов для работы с различными идентификаторами и поиска связанных с ними сведений:
-* ➡️[OSINT и поиск информации по **Телефону**](https://github.com/osint-and-search/OSINT_i_poisk_po_telefonu) - инструменты и сервисы, с фокусом на анализ телефонов.
-* ➡️[OSINT и поиск информации по **Емайл**](https://github.com/osint-and-search/OSINT_i_poisk_po_email) - решения для исследования и пробива электронных адресов.
-* ➡️[OSINT и поиск информации по **ФИО**](https://github.com/osint-and-search/OSINT_i_poisk_po_FIO) - практические методы и сервисы анализа по личным данным.
-* ➡️[OSINT и поиск информации по **Карте банка**](https://github.com/osint-and-search/OSINT_i_poisk_po_nomeru_karti) - варианты работы с банковскими реквизитами.
-* ➡️[OSINT и поиск информации по **Автомобилю**](https://github.com/osint-and-search/OSINT_i_poisk_po_avto_i_nomeru) - средства для анализа транспорта по номерам и VIN.
-* ➡️[OSINT и поиск информации по **Правам**](https://github.com/osint-and-search/OSINT_i_poisk_po_pravam) - подходы к проверке водительских удостоверений.
-* ➡️[OSINT и поиск информации по **Паспорту**](https://github.com/osint-and-search/OSINT_i_poisk_po_pasportu) - ресурсы для работы с паспортными сведениями.
-* ➡️[OSINT и поиск информации по **Кадастровому номеру**](https://github.com/osint-and-search/OSINT_i_poisk_po_kadastrovomu_nomeru) - инструменты кадастрового поиска и данных.
-* ➡️[OSINT и поиск информации по **Адресу**](https://github.com/osint-and-search/OSINT_i_poisk_po_adresu) - платформы и боты для исследования адресов.
-* ➡️[OSINT и поиск информации по **ИНН**](https://github.com/osint-and-search/OSINT_i_poisk_po_INN) - гайды и сервисы по поиску данных через ИНН.
-* ➡️[OSINT и поиск информации по **ИП**](https://github.com/osint-and-search/OSINT_i_poisk_individualnih_predprenimatelei) - материалы по проверке индивидуальных предпринимателей.
-* ➡️[OSINT и поиск информации по **Нику (никнейму)**](https://github.com/osint-and-search/OSINT_i_poisk_po_niku) - каталог решений для поиска по никнеймам.
-* ➡️[OSINT и поиск информации по **IP**](https://github.com/osint-and-search/OSINT_i_poisk_po_IP) - ресурсы и инструкции по анализу IP-адресов.
+* ➡️[OSINT и пробив информации по **Телефону**](https://github.com/osint-and-search/OSINT_i_poisk_po_telefonu) - инструменты и сервисы, с фокусом на анализ телефонов.
+* ➡️[OSINT и пробив информации по **Емайл**](https://github.com/osint-and-search/OSINT_i_poisk_po_email) - решения для исследования и пробива электронных адресов.
+* ➡️[OSINT и пробив информации по **ФИО**](https://github.com/osint-and-search/OSINT_i_poisk_po_FIO) - практические методы и сервисы анализа по личным данным.
+* ➡️[OSINT и пробив информации по **Карте банка**](https://github.com/osint-and-search/OSINT_i_poisk_po_nomeru_karti) - варианты работы с банковскими реквизитами.
+* ➡️[OSINT и пробив информации по **Автомобилю**](https://github.com/osint-and-search/OSINT_i_poisk_po_avto_i_nomeru) - средства для анализа транспорта по номерам и VIN.
+* ➡️[OSINT и пробив информации по **Правам**](https://github.com/osint-and-search/OSINT_i_poisk_po_pravam) - подходы к проверке водительских удостоверений.
+* ➡️[OSINT и пробив информации по **Паспорту**](https://github.com/osint-and-search/OSINT_i_poisk_po_pasportu) - ресурсы для работы с паспортными сведениями.
+* ➡️[OSINT и пробив информации по **Кадастровому номеру**](https://github.com/osint-and-search/OSINT_i_poisk_po_kadastrovomu_nomeru) - инструменты кадастрового поиска и данных.
+* ➡️[OSINT и пробив информации по **Адресу**](https://github.com/osint-and-search/OSINT_i_poisk_po_adresu) - платформы и боты для исследования адресов.
+* ➡️[OSINT и пробив информации по **ИНН**](https://github.com/osint-and-search/OSINT_i_poisk_po_INN) - гайды и сервисы по поиску данных через ИНН.
+* ➡️[OSINT и пробив информации по **ИП**](https://github.com/osint-and-search/OSINT_i_poisk_individualnih_predprenimatelei) - материалы по проверке индивидуальных предпринимателей.
+* ➡️[OSINT и пробив информации по **Нику (никнейму)**](https://github.com/osint-and-search/OSINT_i_poisk_po_niku) - каталог решений для поиска по никнеймам.
+* ➡️[OSINT и пробив информации по **IP**](https://github.com/osint-and-search/OSINT_i_poisk_po_IP) - ресурсы и инструкции по анализу IP-адресов.
 
 ## Инструменты для поиска информации в соцсетях 💻
 Специализированные материалы по OSINT в социальных платформах с описанием рабочих приёмов и инструментов:
-* ➡️[OSINT и поиск информации **ВКонтакте**](https://github.com/osint-and-search/OSINT_i_poisk_VKontakte) - инструментарий для анализа профилей и поиска в VK.
-* ➡️[OSINT и поиск информации в **Одноклассниках**](https://github.com/osint-and-search/OSINT_i_poisk_v_Odnoklassniki) - решения для работы с платформой Одноклассники.
-* ➡️[OSINT и поиск информации в **Instagram**](https://github.com/osint-and-search/OSINT_i_poisk_v_Instagram) - сервисы и подходы к исследованию аккаунтов Instagram.
-* ➡️[OSINT и поиск информации в **Facebook**](https://github.com/osint-and-search/OSINT_i_poisk_v_Facebook) - инструменты поиска профилей и анализа в Facebook.
-* ➡️[OSINT и поиск информации в **YouTube**](https://github.com/osint-and-search/OSINT_i_poisk_v_YouTube) - методики анализа каналов и видео.
-* ➡️[OSINT и поиск информации в **МойМир**](https://github.com/osint-and-search/OSINT_i_poisk_MoyMir) - гайды по исследованию данных в МойМир.
-* ➡️[OSINT и поиск информации в **TikTok**](https://github.com/osint-and-search/OSINT_i_poisk_v_TikTok) - средства анализа и поиска в TikTok.
-* ➡️[OSINT и поиск информации в **Linkedin**](https://github.com/osint-and-search/OSINT_i_poisk_v_Linkedin) - приёмы работы с профессиональной сетью Linkedin.
-* ➡️[OSINT и поиск информации в **X (ex.Twitter)**](https://github.com/osint-and-search/OSINT_i_poisk_v_X-Twitter) - методы исследования аккаунтов в X.
-* ➡️[OSINT и поиск информации в **Twitch**](https://github.com/osint-and-search/OSINT_i_poisk_v_Twitch) - инструменты анализа стриминговой платформы Twitch.
+* ➡️[OSINT и пробив информации **ВКонтакте**](https://github.com/osint-and-search/OSINT_i_poisk_VKontakte) - инструментарий для анализа профилей и поиска в VK.
+* ➡️[OSINT и пробив информации в **Одноклассниках**](https://github.com/osint-and-search/OSINT_i_poisk_v_Odnoklassniki) - решения для работы с платформой Одноклассники.
+* ➡️[OSINT и пробив информации в **Instagram**](https://github.com/osint-and-search/OSINT_i_poisk_v_Instagram) - сервисы и подходы к исследованию аккаунтов Instagram.
+* ➡️[OSINT и пробив информации в **Facebook**](https://github.com/osint-and-search/OSINT_i_poisk_v_Facebook) - инструменты поиска профилей и анализа в Facebook.
+* ➡️[OSINT и пробив информации в **YouTube**](https://github.com/osint-and-search/OSINT_i_poisk_v_YouTube) - методики анализа каналов и видео.
+* ➡️[OSINT и пробив информации в **МойМир**](https://github.com/osint-and-search/OSINT_i_poisk_MoyMir) - гайды по исследованию данных в МойМир.
+* ➡️[OSINT и пробив информации в **TikTok**](https://github.com/osint-and-search/OSINT_i_poisk_v_TikTok) - средства анализа и поиска в TikTok.
+* ➡️[OSINT и пробив информации в **Linkedin**](https://github.com/osint-and-search/OSINT_i_poisk_v_Linkedin) - приёмы работы с профессиональной сетью Linkedin.
+* ➡️[OSINT и пробив информации в **X (ex.Twitter)**](https://github.com/osint-and-search/OSINT_i_poisk_v_X-Twitter) - методы исследования аккаунтов в X.
+* ➡️[OSINT и пробив информации в **Twitch**](https://github.com/osint-and-search/OSINT_i_poisk_v_Twitch) - инструменты анализа стриминговой платформы Twitch.
 
 ## Инструменты для поиска информации в мессенджерах 📱
 Материалы по проведению OSINT в популярных мессенджерах и системах обмена сообщениями:
-* ➡️[OSINT и поиск информации в **Телеграм**](https://github.com/osint-and-search/OSINT_i_poisk_Telegram) - перечень инструментов и инструкций для Telegram.
-* ➡️[OSINT и поиск информации в **WhatsApp**](https://github.com/osint-and-search/OSINT_i_poisk_v_WhatsApp) - сервисы и советы по анализу WhatsApp.
-* ➡️[OSINT и поиск информации в **Discord**](https://github.com/osint-and-search/OSINT_i_poisk_v_Discord) - решения для работы с Discord.
-* ➡️[OSINT и поиск информации в **ICQ**](https://github.com/osint-and-search/OSINT_i_poisk_ICQ) - гайды по поиску данных в ICQ.
+* ➡️[OSINT и пробив информации в **Телеграм**](https://github.com/osint-and-search/OSINT_i_poisk_Telegram) - перечень инструментов и инструкций для Telegram.
+* ➡️[OSINT и пробив информации в **WhatsApp**](https://github.com/osint-and-search/OSINT_i_poisk_v_WhatsApp) - сервисы и советы по анализу WhatsApp.
+* ➡️[OSINT и пробив информации в **Discord**](https://github.com/osint-and-search/OSINT_i_poisk_v_Discord) - решения для работы с Discord.
+* ➡️[OSINT и пробив информации в **ICQ**](https://github.com/osint-and-search/OSINT_i_poisk_ICQ) - гайды по поиску данных в ICQ.
 
 ## Тематические подборки поиска информации 🎲
 Специализированные инструментарии для работы с данными в узких областях:
-* ➡️[OSINT и поиск информации по **Фотографиям**](https://github.com/osint-and-search/OSINT_i_poisk_po_foto) - набор средств для анализа изображений.
-* ➡️[OSINT и поиск информации с **API для разработки**](https://github.com/osint-and-search/poisk_informacii_s_API) - подходы к использованию API в OSINT.
-* ➡️[OSINT и поиск информации в **Играх**](https://github.com/osint-and-search/OSINT_i_poisk_v_igrah-GAMEINT) - сервисы для исследования игровых профилей и данных.
-* ➡️[OSINT и поиск информации по **Архивам**](https://github.com/osint-and-search/OSINT_i_poisk_po_arhivam) - инструменты работы с архивными материалами.
-* ➡️[OSINT и поиск информации по **Сайтам**](https://github.com/osint-and-search/OSINT_i_poisk_po_saitam) - решения для анализа веб-ресурсов.
-* ➡️[OSINT и поиск информации по **Продавцам**](https://github.com/osint-and-search/OSINT_i_poisk_po_Prodavcam) - методы проверки продавцов на маркетплейсах.
-* ➡️[OSINT и поиск информации по **Недвижимости**](https://github.com/osint-and-search/OSINT_i_poisk_po_nedvigimosti) - инструменты проверки объектов недвижимости.
-* ➡️[OSINT и поиск информации с **Законными инструментами**](https://github.com/osint-and-search/zakonniy_poisk_informacii) - легальные способы сбора сведений.
+* ➡️[OSINT и пробив информации по **Фотографиям**](https://github.com/osint-and-search/OSINT_i_poisk_po_foto) - набор средств для анализа изображений.
+* ➡️[OSINT и пробив информации с **API для разработки**](https://github.com/osint-and-search/poisk_informacii_s_API) - подходы к использованию API в OSINT.
+* ➡️[OSINT и пробив информации в **Играх**](https://github.com/osint-and-search/OSINT_i_poisk_v_igrah-GAMEINT) - сервисы для исследования игровых профилей и данных.
+* ➡️[OSINT и пробив информации по **Архивам**](https://github.com/osint-and-search/OSINT_i_poisk_po_arhivam) - инструменты работы с архивными материалами.
+* ➡️[OSINT и пробив информации по **Сайтам**](https://github.com/osint-and-search/OSINT_i_poisk_po_saitam) - решения для анализа веб-ресурсов.
+* ➡️[OSINT и пробив информации по **Продавцам**](https://github.com/osint-and-search/OSINT_i_poisk_po_Prodavcam) - методы проверки продавцов на маркетплейсах.
+* ➡️[OSINT и пробив информации по **Недвижимости**](https://github.com/osint-and-search/OSINT_i_poisk_po_nedvigimosti) - инструменты проверки объектов недвижимости.
+* ➡️[OSINT и пробив информации с **Законными инструментами**](https://github.com/osint-and-search/zakonniy_poisk_informacii) - легальные способы сбора сведений.
 
 В подборках сосредоточены наиболее эффективные решения для OSINT, пробива и поиска. Они помогают собирать значительные объёмы сведений по выбранным направлениям и проводить исследования нужных объектов.
 
@@ -83,9 +83,9 @@
 ## Что такое OSINT, Доксинг и Пробив?
 **OSINT (Open Source Intelligence)** представляет собой метод сбора и анализа сведений из общедоступных источников. К ним относятся социальные сети, новостные порталы, государственные реестры, поисковые системы и открытые базы. OSINT активно применяется в кибербезопасности, журналистике, расследованиях и мониторинге потенциальных рисков.
 
-**Доксинг** — практика публикации или распространения персональных данных человека без его разрешения. Чаще всего такая деятельность направлена на запугивание, шантаж или нанесение репутационного ущерба. В ряде стран доксинг подпадает под законодательные ограничения и может повлечь административную или уголовную ответственность.
+**Доксинг** - практика публикации или распространения персональных данных человека без его разрешения. Чаще всего такая деятельность направлена на запугивание, шантаж или нанесение репутационного ущерба. В ряде стран доксинг подпадает под законодательные ограничения и может повлечь административную или уголовную ответственность.
 
-**Пробив информации (в разговорной речи также «деанон»)** — сленговое обозначение поиска закрытых или ограниченно доступных сведений о физических и юридических лицах. Обычно подразумевается получение приватных данных (ФИО, адрес проживания, связи, история перемещений, аккаунты) по известным идентификаторам: номеру телефона, VIN, паспортным реквизитам, email и другим.
+**Пробив информации (в разговорной речи также «деанон»)** - сленговое обозначение поиска закрытых или ограниченно доступных сведений о физических и юридических лицах. Обычно подразумевается получение приватных данных (ФИО, адрес проживания, связи, история перемещений, аккаунты) по известным идентификаторам: номеру телефона, VIN, паспортным реквизитам, email и другим.
 
 ### Зачем применяют OSINT и пробив?
 * Самопроверка: выявить, какая информация о себе доступна в открытых источниках, и минимизировать риски утечек.
